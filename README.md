@@ -35,8 +35,15 @@ The resulting graph is as shown below:
 
 Observations:
 
-From the ride-sharing summary DataFrame by city type it is seen in terms of cost that, urban city had the total fares of about $39854.38 where the avg fare per driver is $0.67 for an avg fare per ride of $24.53. When we compare this to rural city type the avg fare per ride is $10 more than the urban city & also the avg fare per drive for rural is more than the suburban which is $2.26 & urban which is $0.67.
+From the ride-sharing summary DataFrame by city type it is seen in terms of cost, urban city had the total fares of about $39854.38 where the avg fare per driver is $0.67 for an avg fare per ride of $24.53. When we compare this to rural city type the avg fare per ride is $10 more than the urban city & also the avg fare per drive for rural is more than the suburban which is $2.26 & urban which is $0.67.
 
 The multiple line chart of Total fares for the city type further supports the ride-sharing summary dataframe. The line graph shows how the urban, suburban & rural city type performed between January 2091 to April 2019. The yellow line shows us the total fares for urban cities totaled from around $1600 to $2300. The orange line shows the total fares for suburban cities totaled from around $700 to $1300 from the start to end of during this time. When we observe the blue line which represents the rural cities total fare which totaled from $300 from beginning to end during the same time period. 
 
 The other observation from the multiple line graph is that there were similar peaks times in all three cities. The peak for total fares among the urban, suburban & rural occurred towards the end of February 2019.
+
+## Summary
+
+The recommendations for Pyber are: 
+Increasing the number of drivers in the rural cities to meet the demand, thus resulting in increased revenue
+Reduce the number of drivers in the urban cities, the ratio of drivers:rides makes it clear, by reducing number of drivers will increase the avg fare per driver.
+We can see that the urban cities rides make more revenue than the rural cities, but the rural cities rides are more profitable. So, this would be a area to focus on improving profitability of urban cities rides. 
