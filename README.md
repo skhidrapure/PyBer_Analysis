@@ -44,6 +44,8 @@ The other observation from the multiple line graph is that there were similar pe
 ## Summary
 
 The recommendations for Pyber are: 
-Increasing the number of drivers in the rural cities to meet the demand, thus resulting in increased revenue
+Increasing the number of drivers in the rural cities to meet the demand, thus resulting in increased revenue.
+
 Reduce the number of drivers in the urban cities, the ratio of drivers:rides makes it clear, by reducing number of drivers will increase the avg fare per driver.
+
 We can see that the urban cities rides make more revenue than the rural cities, but the rural cities rides are more profitable. So, this would be a area to focus on improving profitability of urban cities rides. 
