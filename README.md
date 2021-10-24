@@ -23,13 +23,13 @@ Then, calculated the average fare per ride and average fare per driver for each 
 
 The results of the dataframe are as shown below:
 
-![](Analysis/ride_share_Summary_df_by_city)
+![](Analysis/ride_share_Summary_df_by_city.png)
 
 The second part we created a multiple line chart of the total fares for each city type.
 
 The results graph is as shown below:
-![](Analysis/total_fares_for_each_city_type)
-![](Analysis/PyBer_fare_summary)
+![](Analysis/total_fares_for_each_city_type.png)
+![](Analysis/PyBer_fare_summary.png)
 
 
 Observations:
