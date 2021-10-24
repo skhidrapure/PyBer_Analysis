@@ -27,8 +27,9 @@ The results of the dataframe are as shown below:
 
 The second part we created a multiple line chart of the total fares for each city type.
 
-The results graph is as shown below:
-![](Analysis/total_fares_for_each_city_type.png)
+The resulting graph is as shown below:
+
+
 ![](Analysis/PyBer_fare_summary.png)
 
 
